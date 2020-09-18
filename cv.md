@@ -21,3 +21,11 @@
 ## Experience: ##
 ---
  *Do not have experience.*
+ 
+## Education: ##
+---
+*Now i'am a third year student of BSU Faculty of socialculture communications.(https://fsc.bsu.by/ru/o-kafedre/)*
+
+## English: ##
+---
+*I studied English eleven years at school and first year at university. I have an A2 level of English.*
