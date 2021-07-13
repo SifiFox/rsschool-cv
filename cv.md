@@ -1,7 +1,7 @@
 
 ## Name: ## 
 ---
- # *Dmitry Antonovich* #
+ *Dmitry Antonovich* 
 
 ## Contacts: ## 
 ---
@@ -16,7 +16,8 @@
 
 ## Skills: ##
 ---
- *Basic knowledge about C and C++, OOP, HTML, CSS, JavaScript, Figma, MS SQL, Adobe Photoshop, Illustrator, After Effects, Premiere Pro*
+ *Basic knowledge about C and C++, After Effects, 3Ds Max*
+ *Well knowledge about OOP, HTML, CSS, JavaScript, Figma, MS SQL, Adobe Photoshop, Illustrator, Premiere Pro*
 
 ## Experience: ##
 ---
